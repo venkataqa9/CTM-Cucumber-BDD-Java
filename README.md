@@ -32,7 +32,6 @@ bdd
     ├── utils/               # package
     |       └──Helpers       # method to get environment file
 
-├── src
 |   ├──  test/               # main package
       ├──java/      
           └── hooks.java     # Before and After annotations
